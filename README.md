@@ -1,4 +1,4 @@
-# algo-bot
+# Algo-bot
 Algorithmic bot for intraday trading in Indian Stock Market
 
 This strategy had 4-6% of monthly return and every trade desicion was executed by algorithm.
